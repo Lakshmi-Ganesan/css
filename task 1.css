@@ -1,0 +1,250 @@
+body{
+    background-color: black;
+}
+.one{
+  display: flex;
+  
+}
+.one img{
+  margin-top: 10px;
+
+}
+.one input{
+  margin-left: 10px;
+  margin-top:18px;
+  padding: 10px;
+}
+.main{
+  display: flex;
+  justify-content: space-between;
+  
+  color: aliceblue;
+}
+.three{
+  display: flex;
+  justify-content:space-between;
+  color: aliceblue;
+  gap: 70px;
+  
+}
+.three img{
+  justify-content: space-between;
+
+  
+}
+.four{
+  display: flex;
+  gap: 15px;
+
+} 
+.four p{
+margin-top: 15px;
+}
+.container{
+  position: relative;
+  width: 60%;
+  margin:auto;
+  height: 250px;
+  background-color: darkgray;
+  }
+  .para1 img{
+    position:absolute;
+    top:50px;
+    left:10px;
+
+  }
+  .para2 p{
+    position: absolute;
+    top: 60px;
+    left: 115px;
+    color: white;
+    
+  }
+  .para3 p{
+    position: absolute;
+    font-size: 15px;
+    top: 75px;
+    left: 115px;
+    
+    color:white;
+  }
+  
+.container button{
+  position: absolute;
+  left:500px;
+  top:80px;
+  width: 200px;
+  font-size: 15px;
+  background-color: dodgerblue;
+}
+.container h6{
+  position: absolute;
+  left:580px;
+  top: 90px;
+  font-size: 15px;
+  color: white;
+}
+.menu ul{
+  display: flex;
+  color: white;
+  gap:10px;
+}
+.menu{
+  position: absolute;
+  top: 200px;
+}
+.menu li{
+  list-style: none;
+}
+ .ten{
+position: absolute;
+top: 200px;
+left: 300px;
+}
+.ten button{
+  display: flex;
+
+}
+
+.nav{
+  display: flex;
+  gap: 10px;
+  margin-top: 20px;
+}
+.container2{
+  margin-top: 20px;
+  width:75%;
+  margin:auto;
+}
+.nav1{
+  width: 400px;
+background-color:darkgray;
+color: white;
+
+}
+.nav2{
+  position: absolute;
+  width: 700px;
+  height:150px;
+  top:428px;
+  left: 625px;
+  background-color:darkgray;
+  border-radius: 5px;
+}
+.nav2 button{
+  background-color:black;
+  color:white;
+}
+
+.nav3{
+  position: absolute;
+  width: 700px;
+  height:150px;
+  top:600px;
+  left: 625px;
+  bottom: 300px;
+  background-color:darkgray;
+  border-radius: 5px;
+}
+  .top
+{
+    background-color:rgb(214, 203, 203);
+    border-radius: 10px;
+    top: 25px;
+    position: absolute;
+    left: 48px;
+    font-size: 15px;
+    color:darkgray;
+    display: inline-block;
+    border: none;
+    cursor: pointer;
+}
+.nav21{
+  display: flex;
+  gap: 20px;
+  margin-top: 50px;
+  margin-left: 35px;
+}
+.nav21 button{
+  width: 500px;
+}
+.head{
+  position: absolute;
+  top:350px;
+  left: 800px;
+  gap: 20px;
+
+}
+.head button{
+  background-color: darkgray;
+  color: white;
+  
+}
+.nav22{
+  margin-top: 25px;
+  margin-left: 40px;
+}
+.nav22 button{
+ 
+background-color:black;
+}
+.logo1{
+
+  text-align:center;
+  background-color:darkgray;
+  font-size: 30px;
+}
+.playlogo{
+  
+  width: 50px;
+  height:20px ;
+
+}
+.c{
+  display: flex;
+  justify-content: space-between;
+  font-size:20px;
+}
+.head2{
+  text-align: center;
+  background-color: darkmagenta;
+  height: 15vh;
+  padding-top: 2%;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
